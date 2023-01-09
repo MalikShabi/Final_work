@@ -1,0 +1,15 @@
+/Users/mal/Desktop/FinalWork/bin/Debug/net6.0/FinalWork
+/Users/mal/Desktop/FinalWork/bin/Debug/net6.0/FinalWork.deps.json
+/Users/mal/Desktop/FinalWork/bin/Debug/net6.0/FinalWork.runtimeconfig.json
+/Users/mal/Desktop/FinalWork/bin/Debug/net6.0/FinalWork.dll
+/Users/mal/Desktop/FinalWork/bin/Debug/net6.0/FinalWork.pdb
+/Users/mal/Desktop/FinalWork/obj/Debug/net6.0/FinalWork.csproj.AssemblyReference.cache
+/Users/mal/Desktop/FinalWork/obj/Debug/net6.0/FinalWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mal/Desktop/FinalWork/obj/Debug/net6.0/FinalWork.AssemblyInfoInputs.cache
+/Users/mal/Desktop/FinalWork/obj/Debug/net6.0/FinalWork.AssemblyInfo.cs
+/Users/mal/Desktop/FinalWork/obj/Debug/net6.0/FinalWork.csproj.CoreCompileInputs.cache
+/Users/mal/Desktop/FinalWork/obj/Debug/net6.0/FinalWork.dll
+/Users/mal/Desktop/FinalWork/obj/Debug/net6.0/refint/FinalWork.dll
+/Users/mal/Desktop/FinalWork/obj/Debug/net6.0/FinalWork.pdb
+/Users/mal/Desktop/FinalWork/obj/Debug/net6.0/FinalWork.genruntimeconfig.cache
+/Users/mal/Desktop/FinalWork/obj/Debug/net6.0/ref/FinalWork.dll
